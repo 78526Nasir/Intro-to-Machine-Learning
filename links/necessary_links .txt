@@ -1,0 +1,18 @@
+python:
+https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
+
+Anaconda Distribution:
+https://repo.anaconda.com/archive/Anaconda3-5.3.0-Windows-x86_64.exe
+
+Udacity Machine Learning Courses without Assignment and Quizes:
+https://youtu.be/ICKBWIkfeJ8?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
+https://youtu.be/Ki2iHgKxRBo?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo
+
+Machine Learning Beginner Course (In Bangla):
+https://ml.howtocode.com.bd
+https://raqueeb.gitbook.io/scikit-learn/
+
+Machine Learning Books:
+Hands-On Machine Learning with Scikit-Learn and TensorFlow
+by
+Aurélien Géron
