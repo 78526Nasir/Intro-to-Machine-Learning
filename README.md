@@ -4,7 +4,8 @@ This repo contain all the files and document of mine that are discussed in 2-day
 ### Necessary Links
 * In Class competition [link](https://www.kaggle.com/t/825c234efb4f4893b38ff15cd5e7a358)
 * Intro to Kaggle [(Part 1)](https://www.kaggle.com/nasirislamsujan/intro-to-kaggle-part-1)
-
+* Lets explore [Data](https://www.kaggle.com/nasirislamsujan/lets-explore-data)
+* Lets submit our first [prediction](https://www.kaggle.com/nasirislamsujan/lets-submit-our-first-prediction)
 
 
 ## Licence & Copyright 
